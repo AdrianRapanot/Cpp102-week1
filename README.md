@@ -1,7 +1,9 @@
-# Cpp102-week1
+## Cpp102-week1
+
 Name:Adrian P. Rapanot
+Section:CPE1B
 Course:CPP102 - Programming Logic and Design
-Section:1CpE-B
-week 1 reflection:
-What do you think version controll is important in programming 
+Activity Title: Introduction to Python, Git, and GitHub
+
+## reflection
 Version control is important in programming because it helps developers track changes, work together, and recover from mistakes.
